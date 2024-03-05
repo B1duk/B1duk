@@ -4,7 +4,7 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B1duk&theme=github_dark" alt=""/>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=B1duk&theme=github_dark" alt=""/>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=B1duk&theme=github_dark" alt=""/>
-
+#CodeWars
 ![Codewars](https://github.r2v.ch/codewars?user=Biduk)
 </div>
 
