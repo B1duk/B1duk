@@ -12,6 +12,6 @@
 </div>
 <div align="center">
 <h2> :fire: My Stats </h2>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=B1duk&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![B1duk github stats](https://github-readme-stats.vercel.app/api?username=B1duk)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 </div>
