@@ -11,9 +11,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
     
-<div align="center">
-    <h2>:fire: My Stats</h2>
-    ![B1duk's Stats](https://github-readme-stats.vercel.app/api?username=B1duk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-    ![B1duk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B1duk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-</div>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=B1duk&theme=gruvbox)](https://github.com/B1duk/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1duk&layout=compact&theme=gruvbox)](https://github.com/B1duk/github-readme-stats)
 </div>
