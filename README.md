@@ -12,6 +12,6 @@
 </div>
 <div align="center">
 <h2> :fire: My Stats </h2>
-  ![B1duk github stats](https://github-readme-stats.vercel.app/api?username=B1duk)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+ [![B1duk github stats](https://github-readme-stats.vercel.app/api?username=B1duk)]
+    
 </div>
