@@ -18,13 +18,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 </div>
     
-<div style="display: flex;">
-<h2>🔥 My Stats</h2>
 
-[![B1duk's github stats](https://github-readme-stats.vercel.app/api?username=B1duk&theme=gruvbox)](https://github.com/B1duk/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1duk&layout=compact&theme=gruvbox)](https://github.com/B1duk/github-readme-stats)
-    
-</div>
 
  
 </div>
