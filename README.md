@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-2088FF?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Focus-IoT%20%26%20Web%20Development-7C3AED?style=for-the-badge&logo=smartthings&logoColor=white" alt="Focus"/>
+ 
 </div>
 
 ---
