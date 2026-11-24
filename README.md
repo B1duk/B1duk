@@ -7,7 +7,6 @@
 <div align="center">
   📍 Based in <b>Chelyabinsk, Russia</b> &nbsp;|&nbsp; 
   🎓 4th-year student at <b>MiDiS</b> (Web & Mobile Development) &nbsp;|&nbsp; 
-  💼 Technician-Programmer Diploma
 </div>
 
 <br/>
